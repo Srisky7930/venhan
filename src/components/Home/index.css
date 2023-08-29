@@ -1,0 +1,97 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-1 {
+  display: flex;
+  margin: 20px;
+}
+
+.main-server {
+  display: flex;
+  margin: 20px;
+  border: 1px solid blue;
+  background-color: #deddf0;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.box {
+  border: 1px solid black;
+  height: 30px;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.flow-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid brown;
+  padding: 30px;
+  height: 50vh;
+}
+
+.vpn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #f7f2f4;
+  border: 1px solid #fc0345;
+  border-radius: 5px;
+  height: 40vh;
+}
+
+.works {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid pink;
+  background-color: #efddf0;
+  margin: 10px;
+  border-radius: 5px;
+  height: 30vh;
+  width: 200px;
+}
+
+.box-work {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  margin-bottom: 30px;
+  height: 30px;
+  width: 100px;
+}
+
+.computer-nodes {
+  font-size: 6px;
+  border: 1px solid red;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.analytics {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  margin-left: 20px;
+  margin-bottom: 70px;
+  height: 30px;
+  width: 100px;
+}
